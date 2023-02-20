@@ -50,6 +50,6 @@ THEN I can view which classes I have, at what time, and with which professor
 
 [GitHub Repository](https://github.com/MandieBot/Sorting-Hat)
 
-[Link to Deployed Application](https://lit-castle-55469.herokuapp.com/)
+[Link to Deployed Application](https://sorting-hat.herokuapp.com/)
 
 ![Screenshot of Deployed Application](/public/images/Screenshot%202022-12-16%20at%209.21.26%20AM.png)
